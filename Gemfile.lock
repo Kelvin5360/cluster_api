@@ -4,7 +4,7 @@ GEM
     backports (3.10.0)
     multi_json (1.12.2)
     mustermann (1.0.1)
-    rack (2.0.3)
+    rack (2.2.3)
     rack-protection (2.0.0)
       rack
     require_all (1.4.0)
